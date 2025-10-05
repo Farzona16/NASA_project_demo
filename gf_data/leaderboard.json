@@ -1,0 +1,72 @@
+[
+  {
+    "player": "Farmer_426",
+    "location": "Andijan, Uzbekistan",
+    "crop": "Wheat",
+    "date": "2025-10-04T19:33:40.436028",
+    "score": 124.04726452504566,
+    "revenue": 5.781806464350937,
+    "profit": 5.781806464350937,
+    "sustainability": 1.0
+  },
+  {
+    "player": "Farmer_648",
+    "location": "Andijan, Uzbekistan",
+    "crop": "Wheat",
+    "date": "2025-10-05T06:13:21.263475",
+    "score": 82.71060092834615,
+    "revenue": 5.475144183351649,
+    "profit": 3.865144183351635,
+    "sustainability": 0.66
+  },
+  {
+    "player": "Farmer_621",
+    "location": "Andijan, Uzbekistan",
+    "crop": "Sunflower",
+    "date": "2025-10-04T19:45:04.501099",
+    "score": 48.038615911073364,
+    "revenue": 0.07723182214672651,
+    "profit": -2.7427681778532667,
+    "sustainability": 0.4
+  },
+  {
+    "player": "Farmer_539",
+    "location": "Tashkent, Uzbekistan",
+    "crop": "Carrot",
+    "date": "2025-10-04T20:26:35.499491",
+    "score": 42.776326231944466,
+    "revenue": 0.0646524638889332,
+    "profit": -2.987847536111019,
+    "sustainability": 0.3562
+  },
+  {
+    "player": "Farmer_269",
+    "location": "Andijan, Uzbekistan",
+    "crop": "Carrot",
+    "date": "2025-10-04T19:35:28.531382",
+    "score": 2.452333084234537,
+    "revenue": 4.904666168469074,
+    "profit": -26.715333831531243,
+    "sustainability": 0.0
+  },
+  {
+    "player": "Farmer_426",
+    "location": "Andijan, Uzbekistan",
+    "crop": "Wheat",
+    "date": "2025-10-04T19:44:08.685525",
+    "score": 0.04753796504814807,
+    "revenue": 0.09507593009629614,
+    "profit": -27.44492406990398,
+    "sustainability": 0.0
+  },
+  {
+    "player": "Farmer_803",
+    "location": "Texas, USA",
+    "crop": "Sunflower",
+    "date": "2025-10-04T19:59:55.505768",
+    "score": 0.03958788786414954,
+    "revenue": 0.07917577572829908,
+    "profit": -12.900024224271693,
+    "sustainability": 0.0
+  }
+]
